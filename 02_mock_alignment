@@ -1,0 +1,16 @@
+# At the folder with the mock paired-end sequencing files, run the following
+for FILE in {18?????_R1_paired.fastq,19?????_R1_paired.fastq,20?????_R1_paired.fastq,6?????_R1_paired.fastq}; do
+echo ${FILE}
+(bowtie2 -p 1 -x {dirt_to_combined_reference_of_the_4_bacterial_genomes} --maxins 5000 -1 ${FILE} -2 ${FILE/_R1_paired.fastq/}_R2_paired.fastq -S ./${FILE/_R1_paired.fastq/}.sam) 2> ./${FILE/_R1_paired.fastq/}.bowtie.txt
+done
+# --maxins is 5000 as the library size is large, with a large fraction of sequences between 1000-4000bp
+Then 
+for FILE in *.sam; do
+echo ${FILE}
+samtools view -b -S ${FILE} > ${FILE/.sam/}.bam
+samtools sort -o ${FILE/.sam/}_sorted.bam ${FILE/.sam/}.bam
+samtools depth ${FILE/.sam/}_sorted.bam > ${FILE/.sam/}.coverage
+samtools flagstat ${FILE/.sam/}_sorted.bam > ${FILE/.sam/}.flagstat
+samtools index ${FILE/.sam/}_sorted.bam
+samtools idxstats ${FILE/.sam/}_sorted.bam > ${FILE/.sam/}.read_coverage
+done

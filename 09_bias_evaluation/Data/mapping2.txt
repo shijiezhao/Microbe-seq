@@ -1,0 +1,76 @@
+14_trimmed_sigma_2.fasta	F	Faecalibacterium prausnitzii 2	F
+50_trimmed_sigma_2.fasta	A	Collinsella aerofaciens	A
+61_trimmed_sigma_2.fasta	F	Eubacterium ventriosum	F
+64_trimmed_sigma_2.fasta	P	Parasutterella excrementihominis	P
+20_trimmed_sigma_2.fasta	F	Clostridium sp. 2	F
+60_trimmed_sigma_2.fasta	F	Coprococcus comes	F
+85_trimmed_sigma_2.fasta	F	Dorea formicigenerans	F
+53_trimmed_sigma_2.fasta	F	Blautia obeum 1	F
+5_trimmed_sigma_2.fasta	F	Coprococcus catus	F
+17_trimmed_sigma_2.fasta	F	Anaerostipes hadrus	F
+30_trimmed_sigma_2.fasta	A	Actinobacteria bacterium 	A
+66_trimmed_sigma_2.fasta	F	Ruminococcus bromii	F
+69_trimmed_sigma_2.fasta	F	[Ruminococcus] torques 2	F
+38_trimmed_sigma_2.fasta	B	Bacteroides ovatus	B
+32_trimmed_sigma_2.fasta	FS	Cetobacterium somerae	FS
+21_trimmed_sigma_2.fasta	F	Streptococcus thermophilus	F
+81_trimmed_sigma_2.fasta	F	Firmicutes bacterium 3	F
+28_trimmed_sigma_2.fasta	F	Phascolarctobacterium faecium	F
+26_trimmed_sigma_2.fasta	F	Blautia obeum 2	F
+48_trimmed_sigma_2.fasta	F	Ruminococcaceae bacterium 1	F
+55_trimmed_sigma_2.fasta	F	Firmicutes bacterium 6	F
+46_trimmed_sigma_2.fasta	F	Clostridium sp. 1	F
+2_trimmed_sigma_2.fasta	F	[Eubacterium] rectale	F
+49_trimmed_sigma_2.fasta	F	Firmicutes bacterium 2	F
+10_trimmed_sigma_2.fasta	F	Dorea sp.	F
+44_trimmed_sigma_2.fasta	F	Faecalibacterium prausnitzii 1	F
+0_trimmed_sigma_2.fasta	B	Bacteroides xylanisolvens	B
+29_trimmed_sigma_2.fasta	B	Parabacteroides merdae	B
+1_trimmed_sigma_2.fasta	F	Roseburia faecis	F
+45_trimmed_sigma_2.fasta	F	[Ruminococcus] torques 1	F
+39_trimmed_sigma_2.fasta	F	Firmicutes bacterium 7	F
+73_trimmed_sigma_2.fasta	F	Roseburia inulinivorans	F
+31_trimmed_sigma_2.fasta	F	Lachnospira pectinoschiza	F
+43_trimmed_sigma_2.fasta	F	Clostridiaceae bacterium 1	F
+59_trimmed_sigma_2.fasta	B	Bacteroides vulgatus	B
+16_trimmed_sigma_2.fasta	F	[Eubacterium] eligens	F
+6_trimmed_sigma_2.fasta	F	Eubacterium ramulus	F
+27_trimmed_sigma_2.fasta	F	Clostridium sporogenes	F
+89_trimmed_sigma_2.fasta	F	Firmicutes bacterium 12	F
+47_trimmed_sigma_2.fasta	F	Roseburia intestinalis	F
+68_trimmed_sigma_2.fasta	F	Ruminococcus bicirculans	F
+7_trimmed_sigma_2.fasta	B	Bacteroides uniformis	B
+23_trimmed_sigma_2.fasta	B	Bacteroides fragilis	B
+82_trimmed_sigma_2.fasta	F	Firmicutes bacterium 5	F
+65_trimmed_sigma_2.fasta	F	Firmicutes bacterium 1	F
+63_trimmed_sigma_2.fasta	F	Gemmiger formicilis	F
+87_trimmed_sigma_2.fasta	F	Faecalibacterium prausnitzii 3	F
+88_trimmed_sigma_2.fasta	F	Clostridium sp. 3	F
+62_trimmed_sigma_2.fasta	F	[Clostridium] amygdalinum	F
+78_trimmed_sigma_2.fasta	F	Firmicutes bacterium 9	F
+4_trimmed_sigma_2.fasta	F	Firmicutes bacterium 13	F
+22_trimmed_sigma_2.fasta	B	Bacteroides stercoris	B
+41_trimmed_sigma_2.fasta	F	Firmicutes bacterium 4	F
+3_trimmed_sigma_2.fasta	F	Fusicatenibacter saccharivorans	F
+76_trimmed_sigma_2.fasta	F	Clostridiaceae bacterium 2	F
+67_trimmed_sigma_2.fasta	F	Roseburia sp. 1	F
+11_trimmed_sigma_2.fasta	B	Parabacteroides distasonis	B
+42_trimmed_sigma_2.fasta	F	Ruminococcaceae bacterium 2	F
+90_trimmed_sigma_2.fasta	F	Subdoligranulum sp. 1	F
+83_trimmed_sigma_2.fasta	F	Firmicutes bacterium 10	F
+91_trimmed_sigma_2.fasta	F	Firmicutes bacterium 11	F
+24_trimmed_sigma_2.fasta	B	Barnesiella intestinihominis	B
+25_trimmed_sigma_2.fasta	B	Alistipes onderdonkii	B
+58_trimmed_sigma_2.fasta	F	Blautia obeum 3	F
+77_trimmed_sigma_2.fasta	F	Firmicutes bacterium 8	F
+86_trimmed_sigma_2.fasta	F	Firmicutes bacterium 14	F
+36_trimmed_sigma_2.fasta	F	Firmicutes bacterium 18	F
+40_trimmed_sigma_2.fasta	F	Firmicutes bacterium 15	F
+33_trimmed_sigma_2.fasta	F	Firmicutes bacterium 17	F
+80_trimmed_sigma_2.fasta	F	Clostridiaceae bacterium 3	F
+74_trimmed_sigma_2.fasta	A	Bifidobacterium adolescentis	A
+37_trimmed_sigma_2.fasta	B	Alistipes obesi	B
+75_trimmed_sigma_2.fasta	P	Bilophila wadsworthia	P
+56_trimmed_sigma_2.fasta	F	Blautia obeum 4	F
+34_trimmed_sigma_2.fasta	F	Firmicutes bacterium 16	F
+54_trimmed_sigma_2.fasta	A	Bifidobacterium longum	A

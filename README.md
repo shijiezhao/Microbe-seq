@@ -2,7 +2,7 @@
 Single-cell genomic sequencing of the human gut microbiome
 Codes and intermediary files for reproducing figures from “High-throughput, single-microbe genomics with strain resolution, applied to a human gut microbiome”, by Shijie Zhao and Wenshan Zheng. (co-first authors). We will provide the exact link for the manuscript when it’s available from the journal.
 
-01_sort_SAGs.ipynb preprocesses raw sequencing data into individual SAGs.
+01_sort_SAGs.ipynb preprocesses raw sequencing data into individual SAGs.\n
 02_mock_alignment contains command line scripts for aligning SAGs from a mock community to the reference genomes. Related to Figure 1 and S2.
 03_kraken_standard.sh and 03_kraken_yeast.sh are used to do metagenomics and pooled SAGs taxonomy assignment. Related to Figure S3 and S4.
 04_co_assembly contains scripts used for iterative clustering of SAGs from the same species and co-assembly. Related to Figure 2.

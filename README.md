@@ -19,3 +19,5 @@ Codes and intermediary files for reproducing figures from “High-throughput, si
 08_HGT_QC.ipynb checks HGT events quality. Related to Figure S11 and S12.
 
 09_Bias_evaluation.ipynb compares species-level methodological biases between single-cell and metagenomics. Related to Figure S5 and S6.
+
+genome_coassemblies include all the species-level and strain-level genome co-assemblies. ID corresponds to the bin ID in Table S3.

@@ -1,23 +1,52 @@
 # Microbe-seq
-Single-cell genomic sequencing of the human gut microbiome
-Codes and intermediary files for reproducing figures from “High-throughput, single-microbe genomics with strain resolution, applied to a human gut microbiome”, by Shijie Zhao and Wenshan Zheng. (co-first authors). We will provide the exact link for the manuscript when it’s available from the journal.
 
-01_sort_SAGs.ipynb preprocesses raw sequencing data into individual SAGs.
+## Overview
+This repository contains the code and intermediary files for reproducing figures from the manuscript titled "High-throughput, single-microbe genomics with strain resolution, applied to a human gut microbiome," authored by Shijie Zhao and Wenshan Zheng (co-first authors). The link to the manuscript will be provided once it is available from the journal.
 
-02_mock_alignment contains command line scripts for aligning SAGs from a mock community to the reference genomes. Related to Figure 1 and S2.
+## Repository Structure
+Each directory contains specific scripts related to different figures and analyses described in the manuscript:
 
-03_kraken_standard.sh and 03_kraken_yeast.sh are used to do metagenomics and pooled SAGs taxonomy assignment. Related to Figure S3 and S4.
+### 01_sort_SAGs.ipynb
+- **Purpose**: Preprocesses raw sequencing data into individual Single Amplified Genomes (SAGs).
 
-04_co_assembly contains scripts used for iterative clustering of SAGs from the same species and co-assembly. Related to Figure 2.
+### 02_mock_alignment
+- **Contents**: Command line scripts for aligning SAGs from a mock community to reference genomes.
+- **Related Figures**: Figure 1, Supplementary Figure S2.
 
-05_phylogenic_tree contains phylogenetic tree from the 76 species. Related to Figure 2.
+### 03_kraken_standard.sh and 03_kraken_yeast.sh
+- **Function**: Perform metagenomics and pooled SAGs taxonomy assignments.
+- **Related Figures**: Supplementary Figures S3 and S4.
 
-06_strain_calling splits SAGs from different strains from the same species. Related to Figure 3, S8, S9, and S10.
+### 04_co_assembly
+- **Description**: Contains scripts used for iterative clustering of SAGs from the same species and co-assembly.
+- **Related Figures**: Figure 2.
 
-07_HGT.ipynb is used for HGT detection between high-quality strain-resolved genomes. Related to Figure 4.
+### 05_phylogenic_tree
+- **Contents**: Scripts for constructing phylogenetic trees from the 76 species.
+- **Related Figures**: Figure 2.
 
-08_HGT_QC.ipynb checks HGT events quality. Related to Figure S11 and S12.
+### 06_strain_calling
+- **Purpose**: Splits SAGs from different strains of the same species.
+- **Related Figures**: Figure 3, Supplementary Figures S8, S9, and S10.
 
-09_Bias_evaluation.ipynb compares species-level methodological biases between single-cell and metagenomics. Related to Figure S5 and S6.
+### 07_HGT.ipynb
+- **Function**: Used for Horizontal Gene Transfer (HGT) detection between high-quality strain-resolved genomes.
+- **Related Figures**: Figure 4.
 
-genome_coassemblies include all the species-level and strain-level genome co-assemblies. ID corresponds to the bin ID in Table S3.
+### 08_HGT_QC.ipynb
+- **Description**: Checks the quality of HGT events.
+- **Related Figures**: Supplementary Figures S11 and S12.
+
+### 09_Bias_evaluation.ipynb
+- **Purpose**: Compares species-level methodological biases between single-cell and metagenomic approaches.
+- **Related Figures**: Supplementary Figures S5 and S6.
+
+### genome_coassemblies
+- **Contents**: Includes all species-level and strain-level genome co-assemblies.
+- **Note**: ID corresponds to the bin ID in Table S3.
+
+## Access and Usage
+To reproduce the results and figures, clone this repository and follow the instructions within each script or notebook.
+
+## Contact
+For further information or issues, please contact the repository administrators or open an issue in this GitHub repository.
